@@ -1,4 +1,4 @@
-nombre=input("Dime tu nombre por favor:")
+nombre=input("Dime tu nombre por favor XD:")
 print("Hola "+nombre)
 input()
 print("branch 1")
